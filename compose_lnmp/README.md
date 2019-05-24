@@ -8,7 +8,7 @@ Docker-compose也按下面链接进行安装.\
 https://docs.docker.com/compose/install/
 
 该文件夹中包含压缩包,只需要下载zip包后进行解压即可. \
-https://github.com/azure-sea/docker-compose/raw/master/compose_lnmp/compose_lnmp.zip
+[compose_lnmp.zip](https://github.com/azure-sea/docker-compose/raw/master/compose_lnmp/compose_lnmp.zip)
 
 下载完成后进行解压操作. \
 unzip compose_lnmp.zip
